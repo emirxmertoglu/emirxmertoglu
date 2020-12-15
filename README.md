@@ -21,3 +21,5 @@ Skills: **VueJS, JavaScript, C#, ASP .NET, Figma**
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=emirxmertoglu&show_icons=true&count_private=true)  
 
 ![Profile views](https://gpvc.arturio.dev/emirxmertoglu)  
+
+[![Mentee](https://img.shields.io/badge/Find%20Mentor-I'm%20a%20mentee-blueviolet?style=for-the-badge&logo=visual-studio-code)](https://findmentor.network/peer/emir-mertoglu)
