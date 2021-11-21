@@ -4,8 +4,9 @@
 
 Hi! I’m Emir Mertoglu, a Software Developer from Turkey living in Mugla after spending almost twenty years in Istanbul. And I'm a student at Mugla University (Information System Engineering - 4rd grade), I organized **DSC MSKU** and **GDG Mugla**. I love The Web and besides the fact I have a little crush on native mobile applications, I consider myself a Front-End developer in my heart.
 
+- 🚀 I’m a student @GelecekVarlık Fullstack Bootcamp
 - 🔭 I’m currently working as Intern Front-End Developer at **Nutima Code**. 
-- 🌱 I’m currently learning VueJS, JavaScript, NodeJS, Figma. 
+- 🌱 I’m currently learning .Net Core, React, VueJS, JavaScript, NodeJS, Figma. 
 - 👯 I’m looking to collaborate on all kind of Front-End technologies. 
 - 🤔 I’m looking for help with any kind of Front-End technologies. 
 - 📫 How to reach me: Twitter, Instagram. 
