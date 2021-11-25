@@ -1,10 +1,10 @@
-### Hi there 👋, my name is Emir
-#### I'm a Front-End Developer
+### Hi there 👋, my name is Emir Mertoglu.
+#### I'm a FullStack Developer
 ![I'm a Front-End Developer](https://miro.medium.com/max/820/1*fb1qxh-e03aXh-tih2MGWA.png)
 
-Hi! I’m Emir Mertoglu, a Software Developer from Turkey. And I'm a student at **[Mugla University](https://mu.edu.tr/)** (Information System Engineering - 4rd grade), and I organized **[DSC MSKU](https://gdsc.community.dev/mugla-sitki-kocman-university/)** and **[GDG Mugla](https://gdg.community.dev/gdg-mugla/)**. I love The Web and besides the fact I have a little crush on native mobile applications, I consider myself a Front-End developer in my heart.
+I'm a student at **[Mugla University](https://mu.edu.tr/)** (Information System Engineering - 4rd grade), and I organized **[DSC MSKU](https://gdsc.community.dev/mugla-sitki-kocman-university/)** and **[GDG Mugla](https://gdg.community.dev/gdg-mugla/)**. I love The Web and besides the fact I have a little crush on native mobile applications, I consider myself a **FullStack Developer** in my heart.
 
-- 🚀 I’m currently a student at GelecekVarlık Fullstack Bootcamp
+- 🚀 I’m currently a student at **Gelecek Varlık Fullstack Bootcamp**
 - 🔭 I’m currently working as Intern Front-End Developer at **Nutima Code**. 
 - 🌱 I’m currently learning .Net Core, React, VueJS, JavaScript, NodeJS, Figma. 
 - 👯 I’m looking to collaborate on all kind of Front-End technologies. 
