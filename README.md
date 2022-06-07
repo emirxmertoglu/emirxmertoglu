@@ -1,14 +1,6 @@
 <h1 align="center">Hi 👋, I'm Emir Mertoğlu</h1>  
 <h3 align="center">I have hands-on experience efficiently coding websites and applications using modern HTML, CSS, and JavaScript.</h3> <br>
 
-<p align="center"> <img src="https://miro.medium.com/max/820/1*fb1qxh-e03aXh-tih2MGWA.png" alt="emirxmertoglu"> </p> <br>
-
-<div align="center">
-
-![Profile views](https://gpvc.arturio.dev/emirxmertoglu)
-
-</div> <br>
-
 <p align="center"> 👨‍💻 All of my projects are available at <a href="https://linktr.ee/emirmertoglu" target="_blank">linktr.ee/emirmertoglu</a> </p>
 
 <p align="center"> 📫 How to reach me <a href="mailto:emir.mertoglu.97@gmail.com"><strong>emir.mertoglu.97@gmail.com</strong></a> </p>
@@ -32,6 +24,12 @@
     <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>&nbsp;
     <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a> 
 </p> <br>
+
+<div align="center">
+
+![Profile views](https://gpvc.arturio.dev/emirxmertoglu)
+
+</div> <br>
   
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=emirxmertoglu&show_icons=true&count_private=true&theme=react" /></p> <br>
   
