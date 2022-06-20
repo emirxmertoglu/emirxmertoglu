@@ -28,7 +28,6 @@
 <div align="center">
 
 ![Profile views](https://gpvc.arturio.dev/emirxmertoglu)
-![](https://komarev.com/ghpvc/?username=emirxmertoglu)
 
 </div> <br>
   
