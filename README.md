@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Emir Mertoğlu</h1>  
 <h3 align="center"><em>I have hands-on experience efficiently coding websites and applications using modern JavaScript, HTML, and CSS.</em></h3> <br>
 
-<p align="center"> 👨‍💻 All of my side projects' live links are available at <a href="https://linktr.ee/emirmertoglu" target="_blank">linktr.ee/emirmertoglu</a> </p>
+<p align="center"> 👨‍💻 All of my projects' live links are available at <a href="https://linktr.ee/emirmertoglu" target="_blank">linktr.ee/emirmertoglu</a> </p>
 
 <p align="center"> ✉️  You can contact me at <a href="mailto:emir.mertoglu.97@gmail.com">emir.mertoglu.97@gmail.com</a> </p>
 
@@ -13,6 +13,7 @@
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>&nbsp;
     <a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>&nbsp;
     <a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue" /></a>&nbsp;
+    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>&nbsp;
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>&nbsp;
     <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>&nbsp;
     <a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a>&nbsp;
@@ -33,11 +34,11 @@
 ![Profile views](https://gpvc.arturio.dev/emirxmertoglu)
 
 </div> <br>
+
+<p align="center"><strong>Note</strong>: While I have used GitHub in the past, I currently use Bitbucket for version control at my current job. As a result, my GitHub profile may appear empty.</p> <br>
   
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=emirxmertoglu&show_icons=true&count_private=true&theme=react" /></p> <br>
   
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=emirxmertoglu&theme=react" alt="emirxmertoglu" /></p> <br>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=emirxmertoglu&layout=compact&theme=react" alt="emirxmertoglu" /></p> <br>
-
-<p align="center"><strong>Note</strong>: While I have used GitHub in the past, I currently use Bitbucket for version control at my current job. As a result, my GitHub profile may appear empty.</p>
