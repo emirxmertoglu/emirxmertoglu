@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Emir Mertoğlu</h1>  
+<h1 align="center">Hi 👋, I'm Emir Mertoglu</h1>  
 <h3 align="center"><em>I have hands-on experience efficiently coding websites and applications using modern JavaScript, HTML, and CSS.</em></h3> <br>
 
 <p align="center"> 👨‍💻 All of my projects' live links are available at <a href="https://linktr.ee/emirmertoglu" target="_blank">linktr.ee/emirmertoglu</a> </p>
@@ -31,14 +31,6 @@
 
 <div align="center">
 
-![Profile views](https://gpvc.arturio.dev/emirxmertoglu)
+![](https://komarev.com/ghpvc/?username=emirxmertoglu)
 
-</div> <br>
-
-<p align="center"><strong>Note</strong>: While I have used GitHub in the past, I currently use Bitbucket for version control at my current job. As a result, my GitHub profile may appear empty.</p> <br>
-  
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=emirxmertoglu&show_icons=true&count_private=true&theme=react" /></p> <br>
-  
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=emirxmertoglu&theme=react" alt="emirxmertoglu" /></p> <br>
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=emirxmertoglu&layout=compact&theme=react" alt="emirxmertoglu" /></p> <br>
+</div>
