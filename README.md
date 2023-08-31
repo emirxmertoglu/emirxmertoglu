@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Emir Mertoglu</h1>  
-<h3 align="center"><em>I have hands-on experience efficiently coding websites and applications using modern JavaScript, HTML, and CSS.</em></h3> <br>
+<h3 align="center"><em>I am skilled in creating high-quality websites and apps using modern JavaScript, HTML, and CSS.</em></h3> <br>
 
 <p align="center"> 👨‍💻 All of my projects' live links are available at <a href="https://linktr.ee/emirmertoglu" target="_blank">linktr.ee/emirmertoglu</a> </p>
 
